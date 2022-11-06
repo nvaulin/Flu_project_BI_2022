@@ -1,0 +1,28 @@
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 358265 sequences (52717864 bp)...
+[M::mem_process_seqs] Processed 358265 reads in 13.363 CPU sec, 0.980 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 14 /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022/data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022/data/SRR1705851.fastq.gz
+[main] Real time: 1.651 sec; CPU: 13.982 sec
+
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 256586 sequences (38118730 bp)...
+[M::mem_process_seqs] Processed 256586 reads in 8.046 CPU sec, 0.597 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 14 /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022/data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022/data/SRR1705858.fastq.gz
+[main] Real time: 1.155 sec; CPU: 8.554 sec
+
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 233327 sequences (34636567 bp)...
+[M::mem_process_seqs] Processed 233327 reads in 7.642 CPU sec, 0.566 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 14 /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022/data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022/data/SRR1705859.fastq.gz
+[main] Real time: 1.073 sec; CPU: 8.106 sec
+
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 249964 sequences (37170486 bp)...
+[M::mem_process_seqs] Processed 249964 reads in 8.400 CPU sec, 0.622 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 14 /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022/data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022/data/SRR1705860.fastq.gz
+[main] Real time: 1.165 sec; CPU: 8.908 sec
+
