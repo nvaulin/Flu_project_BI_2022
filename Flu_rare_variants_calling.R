@@ -56,7 +56,7 @@ control_freq_borders <- df  %>% subset(sample == "control") %>%
                  function(x) c(mean = mean(x), sd = sd(x), 
                                upper_border = mean(x) + 3*sd(x)))
 
-freq_treshold <- mean(control_freq_borders$freq[,"upper_border"])
+freq_treshold <- max(control_freq_borders$freq[,"upper_border"])
 
 person_variants <- df %>% subset(sample == "person") %>% 
                           select(position, prev_nucl, new_nucl, freq) %>% 
